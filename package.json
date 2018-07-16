@@ -5,8 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sunshinelyq/my-vue-play.git"
+  },
   "keywords": [],
   "author": "lyq",
   "license": "ISC",
-  "description": ""
+  "description": "my first vue project",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "webpack": "^4.16.0"
+  }
 }

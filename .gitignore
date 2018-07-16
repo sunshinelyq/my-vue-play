@@ -1,0 +1,22 @@
+# Project
+.idea
+
+# NodeJS
+node_modules
+npm-debug.log
+
+# Application
+*.swp
+*.pyc
+.ropeproject
+.tern-project
+app/views
+build
+dist
+tmp
+app/config/assets-dev.json
+app/config/assets.json
+analyze
+
+# PHP
+vendor
